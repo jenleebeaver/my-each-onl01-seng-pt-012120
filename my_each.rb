@@ -7,9 +7,9 @@ def my_each(array) # put argument(s) here
     #puts i
     #if i == 4
       #break
-  end
+  #end
 end
 
-my_each(array) do
+#my_each(array) do
 
-end
+#end
