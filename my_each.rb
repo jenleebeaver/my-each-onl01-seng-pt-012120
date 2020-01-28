@@ -4,5 +4,12 @@ def my_each(array) # put argument(s) here
 
   while i > array.length
     i += 1
+    puts array 
+    if i <= 4
+      break
   end
+end
+
+my_each(array) do
+  
 end
